@@ -1,24 +1,24 @@
-# 🎓 Ders Calisma Asistanim
+# 🎓 Ders Çalışma Asistanım
 
-Ucretli yapay zeka ders asistanlarina (Astra AI vb.) alternatif olarak, Google Gemini API ve Streamlit kullanarak gelistirdigim, tamamen ucretsiz kisisel calisma arkadasim.
+Ücretli yapay zeâ ders asistanlarına (Astra AI vb.) alternatif olarak, Google Gemini API ve Streamlit kullanarak geliştirdiğim, tamamen ücretsiz kişisel çalışma arkadaşım.
 
-Bu proje, Python ogrenme surecimin bir parcasi olarak hem derslerimde basari oranimi artirmak hem de kendimi yazilim alaninda gelistirmek amaciyla tasarlanmistir.
-
----
-
-## 🌐 Web Sitesine Nasil Erisilir?
-
-Uygulamamiz internet uzerinde canli bir web sitesi olarak yayinlanmistir. Sitemizi kullanmak icin şu adimlari izleyebilirsiniz:
-
-1. **Dogrudan Link Ile Erisim:** Tarayicinizin adres cubuguna dogrudan Streamlit Cloud uzerinden olusturulan size ozel canli site linkini yazarak (Bilgisayariniz kapali olsa bile) uygulamaya erisebilirsiniz.
-2. **Google Uzerinden Erisim:** Projemiz acik kaynakli bir Streamlit uygulamasi oldugu icin, Google arama motoruna **"Ders Calisma Asistanim Streamlit"** veya dogrudan GitHub kullanici adinizla birlikte arama yaptiginizda projenin web sayfasina ulasabilirsiniz.
+Bu proje, Python öğrenme sürecimin bir parçası olarak hem derslerimde başarı oranımı artırmak hem de kendimi yazılım alanında geliştirmek amacıyla tasarlanmıştır.
 
 ---
 
-## 🚀 Ozellikler
-- **Kisisel Ogretmen Modu:** Derslerle ilgili sorularinizi net, cana yakin ve aciklayici bir sekilde cevaplar.
-- **Ucretsiz & Guvenli:** Pahali alternatiflerin aksine tamamen ucretsizdir ve kisisel Google API anahtari altyapisi ile calisir.
-- **Sik ve Kolay Arayuz:** Streamlit kutuphanesi sayesinde kullanici dostu ve modern bir web tasarimi sunar.
+## 🌐 Web Sitesine Nasıl Erişilir?
+
+Uygulamamız internet üzerinde canlı bir web sitesi olarak yayınlanmıştır. Sitemizi kullanmak için şu adımları izleyebilirsiniz:
+
+1. **Doğrudan Link İle Erişim:** Tarayıcınızın adres çubuğuna doğrudan Streamlit Cloud üzerinden oluşturulan size özel canlı site linkini yazarak (Bilgisayarınız kapalı olsa bile) uygulamaya erişebilirsiniz.
+2. **Google Üzerinden Erişim:** Projemiz açık kaynaklı bir Streamlit uygulaması olduğu için, Google arama motoruna **"Ders Çalışma Asistanım Streamlit"** veya doğrudan GitHub kullanıcı adınızla birlikte arama yaptığınızda projenin web sayfasına ulaşabilirsiniz.
+
+---
+
+## 🚀 Özellikler
+- **Kişisel Öğretmen Modu:** Derslerle ilgili sorularınızı net, cana yakın ve açıklayıcı bir şekilde cevaplar.
+- **Ücretsiz & Güvenli:** Pahalı alternatiflerin aksine tamamen ücretsizdir ve kişisel Google API anahtarı altyapısı ile çalışır.
+- **Şık ve Kolay Arayüz:** Streamlit kütüphanesi sayesinde kullanıcı dostu ve modern bir web tasarimi sunar.
 
 ---
 
@@ -30,7 +30,7 @@ Uygulamamiz internet uzerinde canli bir web sitesi olarak yayinlanmistir. Sitemi
 
 ---
 
-## 💻 Yerel Bilgisayarda Kurulum ve Calistirma
+## 💻 Yerel Bilgisayarda Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarinizda VS Code ile calistirmak isterseniz:
 
